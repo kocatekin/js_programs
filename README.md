@@ -1,2 +1,3 @@
 # js_programs
-several unix philosophy javascript programs
+
+These are simple functions of Javascript programs trying to follow Unix Philosophy.
